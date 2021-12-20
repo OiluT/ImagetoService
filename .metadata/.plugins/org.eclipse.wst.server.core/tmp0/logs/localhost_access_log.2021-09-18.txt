@@ -1,0 +1,12 @@
+127.0.0.1 - - [18/Sep/2021:20:10:22 -0300] "GET / HTTP/1.1" 404 763
+127.0.0.1 - - [18/Sep/2021:20:44:00 -0300] "GET / HTTP/1.1" 404 763
+192.168.0.103 - - [18/Sep/2021:20:55:28 -0300] "POST /ServicetoImagem/services/UsuarioDAO?wsdl HTTP/1.1" 200 327
+192.168.0.103 - - [18/Sep/2021:20:55:28 -0300] "POST /ServicetoImagem/services/UsuarioDAO?wsdl HTTP/1.1" 200 332
+192.168.0.103 - - [18/Sep/2021:20:55:28 -0300] "POST /ServicetoImagem/services/UsuarioDAO?wsdl HTTP/1.1" 200 319
+192.168.0.103 - - [18/Sep/2021:20:58:00 -0300] "POST /ServicetoImagem/services/UsuarioDAO?wsdl HTTP/1.1" 200 327
+192.168.0.103 - - [18/Sep/2021:20:58:00 -0300] "POST /ServicetoImagem/services/UsuarioDAO?wsdl HTTP/1.1" 200 332
+192.168.0.103 - - [18/Sep/2021:20:58:00 -0300] "POST /ServicetoImagem/services/UsuarioDAO?wsdl HTTP/1.1" 200 319
+127.0.0.1 - - [18/Sep/2021:20:58:50 -0300] "GET / HTTP/1.1" 404 763
+192.168.0.103 - - [18/Sep/2021:20:58:57 -0300] "POST /ServicetoImagem/services/UsuarioDAO?wsdl HTTP/1.1" 200 327
+192.168.0.103 - - [18/Sep/2021:20:58:57 -0300] "POST /ServicetoImagem/services/UsuarioDAO?wsdl HTTP/1.1" 200 332
+192.168.0.103 - - [18/Sep/2021:20:58:57 -0300] "POST /ServicetoImagem/services/UsuarioDAO?wsdl HTTP/1.1" 200 320

@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+C:\Users\TULIU\workspace\ImagetoService\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2640720614.index
+\ServicetoImagem\src
+C:\Users\TULIU\workspace\ImagetoService\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3100402080.index
+\ServicetoImagem\src
+C:\Users\TULIU\workspace\ImagetoService\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\394600450.index
+\NewWebServices\src
+C:\Users\TULIU\workspace\ImagetoService\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3862179534.index
+\NewWebServices\src
+C:\Users\TULIU\workspace\ImagetoService\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1025848340.index
+\ServicetoImagem\src
+C:\Users\TULIU\workspace\ImagetoService\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3660102722.index
+\ServicetoImagem\src
+C:\Users\TULIU\workspace\ImagetoService\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4035487828.index
+\NewWebServices\src
+C:\Users\TULIU\workspace\ImagetoService\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1960313665.index
+\ServicetoImagem\src
+C:\Users\TULIU\workspace\ImagetoService\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3854132801.index
+\NewWebServices\src
+C:\Users\TULIU\workspace\ImagetoService\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1844408173.index
+\NewWebServices\src

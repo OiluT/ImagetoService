@@ -1,0 +1,4 @@
+127.0.0.1 - - [27/Jun/2021:22:33:54 -0300] "GET / HTTP/1.1" 404 763
+192.168.0.104 - - [27/Jun/2021:22:49:27 -0300] "GET /ServicetoImagem/services/UsuarioDAO?wsdl HTTP/1.1" 200 12123
+192.168.0.104 - - [27/Jun/2021:22:49:27 -0300] "GET /favicon.ico HTTP/1.1" 404 762
+192.168.0.104 - - [27/Jun/2021:22:50:03 -0300] "POST /ServicetoImagem/services/UsuarioDAO?wsdl HTTP/1.1" 200 3973200
